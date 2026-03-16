@@ -2,7 +2,7 @@
 
 This project uses Machine Learning and historical Formula 1 data to predict the finishing order of the 2026 Australian Grand Prix. By using the `fastf1` library to extract lap times, telemetry, and past results, the model analyzes both race pace and one-lap performance to generate a realistic final race classification.
 
-## Project Overview
+## Project Overview 
 
 This project goes beyond simply looking at the starting grid by calculating advanced metrics like **tyre degradation** and **median race pace** during Free Practice 2 (FP2). It combines these with Qualifying results and a custom team performance score (weighted for the new 2026 regulations) to predict the final race standings. Since the prediction is for the first race of 2026, there is no data about previous races with these new regulation.
 
