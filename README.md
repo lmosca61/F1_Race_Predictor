@@ -59,4 +59,4 @@ In the notebook are also shown multiple plots regarding Model's Feature Importan
 ## Prediction results
 ![Model's Feature Importance F1 2026 Australian GP](featureimportance_aus2026.png)
 ![Grid Position vs Predicted Final Position F1 2026 Australian GP](drivercomp_aus2026.png)
-![Team Pace Matrix F1 Australian GP](pace_matrix_aus2026.png)
+![Team Pace Matrix F1 Australian GP](pacematrix_aus2026.png)
